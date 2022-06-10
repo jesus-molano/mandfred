@@ -1,0 +1,846 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesús",
+      "surnames": "Molano Perdomo",
+      "title": "Junior Frontend Developer",
+      "description": "Llevo más de 6 años coqueteando con el mundo del desarrollo web, compaginándolo con mi antiguo empleo cómo militar y el ciclo superior de DAW. Desde enero de 2022 dejé mi empleo para dedicarme al 100% a mi pasión por el desarrollo, aprender todo lo posible, haciendo Bootcamps(EOI) y diferentes cursos en plataformas como Udemy, Freecodecamp, etc. Ahora mismo me encuentro terminando el ciclo superior a distancia (3º año), buscando una empresa donde formarme como profesional y adquirir experiencia en el mundo IT.\nSoy una persona que, o bien por mis años como militar o por mi forma de ser, no me rindo, tengo amor por las cosas bien hechas, se trabajar bajo presión y en equipo.\nSiempre aprendiendo y con ganas de seguir creciendo como profesional. ",
+      "avatar": {
+        "alt": "Linkedin - Profile picture - 400 x 401 (2).png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/abb6dd20-3de7-46a2-8c6e-2b69bfa10459_linkedin---profile-p.png"
+      },
+      "location": {
+        "notes": "Santa Cruz de Tenerife"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/jesus-molano"
+      },
+      {
+        "type": "other",
+        "URL": "https://linktr.ee/jesus_molano"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesus-molano-perdomo/"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Enlaces",
+        "type": "other",
+        "URL": "https://linktr.ee/jesus_molano",
+        "authors": [
+          {
+            "name": "Jesús",
+            "surnames": "Molano Perdomo",
+            "title": "Author"
+          }
+        ],
+        "summary": "Aquí estarán todos mis enlaces e información sobre mi."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Escuela de Organización Industrial",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/5940e1df-76f8-4b88-87d9-084416c2cf38_unnamed.jpg"
+          },
+          "URL": "https://amigaria.com"
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend Developer",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Proyecto “Amigaria”, en el marco del Curso de\nProgramación y Diseño Web Front-End.\nLogros/Funciones\nTrabajo en equipo con framework SCRUM.\nInvestigación e implementación de tecnologías (Vue, Firebase...).\nImplementación de accesibilidad para el tercer sector."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cloud Firestore",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejercito de Tierra",
+          "image": {
+            "alt": "Coat_of_Arms_of_the_16th_Military_Engineering_Battalion.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/2019867f-690e-4494-b814-d1d898ecc65e_coat_of_arms_of_the_.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniero Zapador",
+            "startDate": "2018-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Cómo miembro del 1º pelotón de la 1º sección del BZAP XVI, realicé prácticas de tiro, manejo de explosivos, apoyo a la movilidad y contramovilidad, etc. Todo ello en unidad y trabajando en equipo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IPC Informática",
+          "image": {
+            "alt": "logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/09214a48-a29e-43f9-8b6b-28f9c977fdc0_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Aprendiz de Técnico Informático",
+            "startDate": "2014-03-01",
+            "finishDate": "2014-06-01",
+            "challenges": [
+              {
+                "description": "Montaje y desmontaje de equipos informáticos tanto en tienda cómo a domicilio. Atencíon al cliente y venta de componentes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Who's That Pokemon?",
+          "description": "Aplicación web sencilla utilizando Vue3 y la API PokeApi",
+          "URL": "https://vue3-whos-that-pokemon.netlify.app",
+          "image": {
+            "alt": "Poké_Ball_icon.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/3dd67360-260b-4a74-9b36-6aed5b7f5af9_poke_ball_icon.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Amigaria App",
+          "description": "Proyecto final para el curso de la EOI, enfocado en el tercer sector. Su finalidad es la creación y asignación de actividades de diferentes tipos, para ayudar o socializar de forma completamente voluntaria. Realizado con Vue, Firebase y desplegado en Vercel.",
+          "URL": "https://amigaria.com",
+          "image": {
+            "alt": "logo-amigaria-2_isotipo(1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/281f45c2-55bd-428d-998d-1a975dc73cf6_logo-amigaria-2_isot.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Calendario colaborativo - MERN",
+          "description": "Calendario con autentificación de usuarios utilizando el stack MERN.",
+          "URL": "https://calendar-mern-jmol.herokuapp.com",
+          "image": {
+            "alt": "istockphoto-826959182-612x612.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/69964a62-3426-44fc-bb30-6b8b6c6552a3_istockphoto-82695918.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "finishDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MERN Stack",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Gifox App",
+          "description": "Aplicación web de búsqueda de gifs hecha en React 17 y utilizando la API Giphy.",
+          "URL": "https://gifox-app.vercel.app",
+          "image": {
+            "alt": "Group 2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/5d7441a0-e866-4afe-ad6e-3d8b4046dd5f_group-2.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-09-01",
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de VueJS de cero a experto en Udemy - 43.5 horas",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Vuex, unit test, composition api, options api, autenticación, composables, deployment, file structure, lazy load, y más",
+          "image": {
+            "alt": "p9kTpGac_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/503f72af-ad5e-440b-86cf-efc0eb65bdfd_p9ktpgac_400x400.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Heroku",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "Netlify",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Vuex",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Técnico Superior Desarrollo de Aplicaciones Web",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "CIFP César Manrique",
+          "image": {
+            "alt": "ceip-cesar-manirque-1-1-1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/b13dafe6-a1e7-46cd-ba7f-880a80005d77_ceip-cesar-manirque-.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso de \"Programación y Diseño Web Front-End\" en la Escuela de Organización Industrial - 265 horas",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial",
+          "description": "Front-end (HTML5/CSS3 avanzado, Flexbox, Grid CSS, PostCSS, etc...).\nDevOps/Automatización (Terminal, Git, Linters, NPM, Parcel, ...)\nProgramación (Buenas prácticas y perfeccionamiento de código)\nJavascript (Fundamentos de programación, ECMAScript, ES Modules...)\nFramework SPA (Vue.js, Componentes, Tooling, Vuex, etc...)\nEspecialización Diseño (Responsive Design, Metodologías CSS, Frameworks CSS, WebComponents, etc...)\nEspecialización Frontend (Animaciones, librerías gráficas, SVG, APIs nativas de Javascript, etc...)\nEspecialización de terceros (Servicios externos, Netlify, Google Analytics, pasarelas de pago con Stripe, etc...)\nOptimización y monitorización (Posicionamiento SEO, Optimización web, etc...)",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/0bb23f9c-9685-4648-8690-4223bfc5d65d_unnamed.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Gitflow",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NPM",
+            "type": "technology"
+          },
+          {
+            "name": "Netlify",
+            "type": "technology"
+          },
+          {
+            "name": "PostCSS",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Stripe",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Vuex",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso de \"Programación y Diseño Web Front-End\" en la Escuela de Organización Industrial - 265 horas",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Escuela de Organización Industrial",
+          "description": "Contenidos: Vue3, Vuex, Pinia, Firebase, Supabase, Sass, Stripe, Git,\nBulma, etc.",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/6e7f2ba8-56be-45a5-9a0e-b621e726bc92_unnamed.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Gitflow",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "PostCSS",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Stripe",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Vuex",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso de React de cero a experto en Udemy - 43.9 horas",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Contenidos: Context API, MERN, Hooks, Firestore, JWT, Testing,\nAutenticaciones, Despliegues, CRUD, Logs, SASS, Multiple Routers.",
+          "URL": "https://www.udemy.com/certificate/UC-5d61614a-5c66-43b4-af9d-78ddfa416c67/",
+          "image": {
+            "alt": "p9kTpGac_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/92407f3f-8ac8-4e28-a343-07bc7935abe2_p9ktpgac_400x400.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Heroku",
+            "type": "technology"
+          },
+          {
+            "name": "Hooks",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MERN Stack",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "Netlify",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso de JavaScript Moderno +15 Proyectos en Udemy - 37.5 horas",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-07-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Contenidos: Prototypes, Delegation, Classes, Ajax, Promises,\nGeneradores, Orientado a Objetos, Fetch API, Async Await, Async JS,\nObjetos, REST APIs.",
+          "URL": "https://www.udemy.com/certificate/UC-96d55b8e-979b-4038-ac3a-4aa309fdbef5/",
+          "image": {
+            "alt": "p9kTpGac_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/6031409b-3daf-449f-9863-53f84db921e7_p9ktpgac_400x400.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en Microsistemas Informáticos y Redes",
+        "startDate": "2012-09-01",
+        "finishDate": "2014-06-01",
+        "institution": {
+          "name": "Colegio Concertado Salesianos La Cuesta",
+          "image": {
+            "alt": "LACUESTAobraVN2.1-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/3621986a-4982-4efb-9299-c82160ab5735_lacuestaobravn2.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jesus-molano-perdomo/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Mongoose",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
