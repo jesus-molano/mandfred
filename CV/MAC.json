@@ -11,8 +11,8 @@
       "title": "Junior Frontend Developer",
       "description": "Llevo más de 6 años coqueteando con el mundo del desarrollo web, compaginándolo con mi antiguo empleo cómo militar y el ciclo superior de DAW. Desde enero de 2022 dejé mi empleo para dedicarme al 100% a mi pasión por el desarrollo, aprender todo lo posible, haciendo Bootcamps(EOI) y diferentes cursos en plataformas como Udemy, Freecodecamp, etc. Ahora mismo me encuentro terminando el ciclo superior a distancia (3º año), buscando una empresa donde formarme como profesional y adquirir experiencia en el mundo IT.\nSoy una persona que, o bien por mis años como militar o por mi forma de ser, no me rindo, tengo amor por las cosas bien hechas, se trabajar bajo presión y en equipo.\nSiempre aprendiendo y con ganas de seguir creciendo como profesional. ",
       "avatar": {
-        "alt": "Linkedin - Profile picture - 400 x 401 (2).png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/abb6dd20-3de7-46a2-8c6e-2b69bfa10459_linkedin---profile-p.png"
+        "alt": "Linkedin - Profile picture - 400 x 401.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/fd7f6faa-a20b-4b67-9dc4-634f665ea6c9_linkedin---profile-p.png"
       },
       "location": {
         "notes": "Santa Cruz de Tenerife"
@@ -356,7 +356,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
           "type": "technology"
         }
       },
@@ -368,13 +380,31 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Firebase",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Vue",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -392,7 +422,7 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Sass",
           "type": "technology"
         }
       },
@@ -404,37 +434,7 @@
       },
       {
         "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mongoose",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
           "type": "technology"
         }
       }
