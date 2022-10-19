@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Canarias",
-        "municipality": "Santa Cruz de Tenerife",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Santa Cruz de Tenerife"
       }
     },
     "relevantLinks": [
@@ -208,6 +207,35 @@
       },
       {
         "details": {
+          "name": "Vue Map App",
+          "description": "Un mapa interactivo en el cual podremos buscar lugares y marcar rutas hasta ellos.",
+          "URL": "https://github.com/jesus-molano/vue-map-app",
+          "image": {
+            "alt": "mapbox.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/657beb39-fcf8-4ee0-8c26-b17984543059_mapbox.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "MapBox",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Amigaria App",
           "description": "Proyecto final para el curso de la EOI, enfocado en el tercer sector. Su finalidad es la creación y asignación de actividades de diferentes tipos, para ayudar o socializar de forma completamente voluntaria. Realizado con Vue, Firebase y desplegado en Vercel.",
           "URL": "https://amigaria.com",
@@ -350,12 +378,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
