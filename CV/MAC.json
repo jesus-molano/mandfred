@@ -271,7 +271,7 @@
         "details": {
           "name": "Amigaria App",
           "description": "Proyecto final para el curso de la EOI, enfocado en el tercer sector. Su finalidad es la creación y asignación de actividades de diferentes tipos, para ayudar o socializar de forma completamente voluntaria. Realizado con Vue, Firebase y desplegado en Vercel.",
-          "URL": "https://amigaria.com",
+          "URL": "https://github.com/AmigariaWeb/web-app",
           "image": {
             "alt": "logo-amigaria-2_isotipo(1).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/281f45c2-55bd-428d-998d-1a975dc73cf6_logo-amigaria-2_isot.png"
