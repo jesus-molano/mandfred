@@ -166,6 +166,51 @@
     "projects": [
       {
         "details": {
+          "name": "Journal App React 18",
+          "description": "Una aplicación de notas diarias con posibilidad de subida de imágenes e inicio de sesión.",
+          "URL": "https://github.com/jesus-molano/react18-journal-app",
+          "image": {
+            "alt": "journal.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/beaafc45-f2ee-4dbe-bd27-8504d9c011d9_journal.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-07-01",
+            "finishDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Vue Map App",
           "description": "Un mapa interactivo en el cual podremos buscar lugares y marcar rutas hasta ellos.",
           "URL": "https://github.com/jesus-molano/vue-map-app",
