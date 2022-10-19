@@ -543,6 +543,21 @@
         ]
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Inglés - B1.2 Escuela Oficial de Idiomas",
+        "startDate": "2022-09-01",
+        "finishDate": "2022-10-01",
+        "institution": {
+          "name": "Escuela Oficial de Idiomas La Laguna",
+          "description": "Segundo curso de B1 de Inglés en la Escuela Oficial de Idiomas",
+          "image": {
+            "alt": "descarga.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/ed566182-fc7c-452f-9779-9474754b1503_descarga.jpg"
+          }
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Curso de \"Programación y Diseño Web Front-End\" en la Escuela de Organización Industrial - 265 horas",
