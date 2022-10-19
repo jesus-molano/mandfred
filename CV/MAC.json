@@ -166,47 +166,6 @@
     "projects": [
       {
         "details": {
-          "name": "Who's That Pokemon?",
-          "description": "Aplicación web sencilla utilizando Vue3 y la API PokeApi",
-          "URL": "https://vue3-whos-that-pokemon.netlify.app",
-          "image": {
-            "alt": "Poké_Ball_icon.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/3dd67360-260b-4a74-9b36-6aed5b7f5af9_poke_ball_icon.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-06-01",
-            "finishDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Netlify",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Vue Map App",
           "description": "Un mapa interactivo en el cual podremos buscar lugares y marcar rutas hasta ellos.",
           "URL": "https://github.com/jesus-molano/vue-map-app",
