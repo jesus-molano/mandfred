@@ -248,51 +248,6 @@
       },
       {
         "details": {
-          "name": "Calendario colaborativo - MERN",
-          "description": "Calendario con autentificación de usuarios utilizando el stack MERN.",
-          "URL": "https://calendar-mern-jmol.herokuapp.com",
-          "image": {
-            "alt": "istockphoto-826959182-612x612.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/69964a62-3426-44fc-bb30-6b8b6c6552a3_istockphoto-82695918.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-11-01",
-            "finishDate": "2021-11-01",
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MERN Stack",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Gifox App",
           "description": "Aplicación web de búsqueda de gifs hecha en React 17 y utilizando la API Giphy.",
           "URL": "https://gifox-app.vercel.app",
