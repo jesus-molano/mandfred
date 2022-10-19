@@ -211,6 +211,35 @@
       },
       {
         "details": {
+          "name": "Comic Database",
+          "description": "Aplicación donde podemos buscar nuestros héroes y villanos favoritos de diferentes editoriales.",
+          "URL": "https://github.com/jesus-molano/react18-heroes",
+          "image": {
+            "alt": "readme-img.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/17d766a0-8cd9-4c37-b641-d53f9f136315_readme-img.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-07-01",
+            "finishDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Vue Map App",
           "description": "Un mapa interactivo en el cual podremos buscar lugares y marcar rutas hasta ellos.",
           "URL": "https://github.com/jesus-molano/vue-map-app",
