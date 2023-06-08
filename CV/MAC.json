@@ -912,7 +912,7 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "Mi puesto ideal es aquel en el que se me valore como profesional y como persona, que pueda seguir aprendiendo y mejorando en diferentes proyectos o tecnologías.",
-    "goodPractices": "Modularización de código, seguir estandares de desarrollo, trabajar por tareas, etc",
+    "goodPractices": "Modularización de código, seguir estandares de desarrollo, trabajar por tareas, aplicar principios SOLID.",
     "projects": [
       {
         "name": "Amigaria App"
