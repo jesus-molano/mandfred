@@ -159,6 +159,42 @@
     "projects": [
       {
         "details": {
+          "name": "Portfolio",
+          "description": "Mi página web personal a modo de portfolio.",
+          "URL": "https://www.jesusmolano.dev/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/08/b3c4d7c0-fb55-44ee-9a87-4865263f0c4c_screenshot_2023-06-0.jpg",
+            "alt": "Screenshot_2023-06-08-07-04-58-962_com.opera.browser-edit.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-03-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Gifox App",
           "description": "Aplicación web de búsqueda de gifs hecha en React 17 y utilizando la API Giphy.",
           "URL": "https://github.com/jesus-molano/gifox-app",
@@ -925,6 +961,9 @@
       },
       {
         "name": "Journal App React 18"
+      },
+      {
+        "name": "Portfolio"
       },
       {
         "name": "Vue Map App"
