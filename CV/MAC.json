@@ -947,10 +947,6 @@
           "type": "technology"
         },
         {
-          "name": "Express",
-          "type": "technology"
-        },
-        {
           "name": "Google Firebase",
           "type": "technology"
         },
@@ -960,10 +956,6 @@
         },
         {
           "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "Mongoose",
           "type": "technology"
         },
         {
