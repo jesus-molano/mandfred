@@ -47,6 +47,52 @@
     "jobs": [
       {
         "organization": {
+          "name": "PwC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/08/55e8875f-eccc-41b3-a23e-8e5337e2695e_pricewaterhousecoope.png",
+            "alt": "PricewaterhouseCoopers_Logo.svg.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Mi rol en el equipo de frontend de PwC es el de realizar en equipo proyectos E2E para grandes clientes. Utilizando últimas tecnologías como Next.js, Tailwind, React e incluso a veces React Native."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Escuela de Organización Industrial",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/5940e1df-76f8-4b88-87d9-084416c2cf38_unnamed.jpg",
