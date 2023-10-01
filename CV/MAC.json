@@ -464,6 +464,12 @@
       },
       {
         "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
           "type": "technology"
         }
@@ -991,6 +997,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Mi puesto ideal es aquel en el que se me valore como profesional y como persona, que pueda seguir aprendiendo y mejorando en diferentes proyectos o tecnologías.\n\nQue se utilice algún marco de trabajo agile y últimas versiones de las tecnologías más utilizadas. Y como buen añadido, teletrabajo o híbrido.",
     "goodPractices": "Modularización de código, seguir estandares de desarrollo, trabajar por tareas, aplicar principios SOLID.",
     "projects": [
