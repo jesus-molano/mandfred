@@ -38,6 +38,14 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesus-molano-perdomo/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jesus-molano"
+      },
+      {
         "type": "other",
         "URL": "https://jesusmolano.dev"
       }
@@ -530,12 +538,6 @@
       },
       {
         "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Vue",
           "type": "technology"
         }
@@ -1015,7 +1017,7 @@
         "type": "technology"
       },
       {
-        "name": "Tailwind",
+        "name": "Vue",
         "type": "technology"
       }
     ],
