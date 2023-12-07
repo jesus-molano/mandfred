@@ -8,11 +8,11 @@
     "profile": {
       "name": "Jesús",
       "surnames": "Molano Perdomo",
-      "title": "Frontend Developer",
-      "description": "Llevo más de 6 años coqueteando con el mundo del desarrollo web, compaginándolo con mi antiguo empleo cómo militar y el ciclo superior de DAW. Desde enero de 2022 dejé mi empleo para dedicarme al 100% a mi pasión por el desarrollo, aprender todo lo posible, haciendo Bootcamps(EOI) y diferentes cursos en plataformas como Udemy, Freecodecamp, etc. Ahora mismo me encuentro trabajando como desarrollador web en PwC utilizando Next.js, React, Typescript, Tailwind, Docker, etc..\nSoy una persona que, o bien por mis años como militar o por mi forma de ser, no me rindo, tengo amor por las cosas bien hechas y sé trabajar bajo presión y en equipo.\nSiempre aprendiendo y con ganas de seguir creciendo como profesional. ",
+      "title": "💻Frontend Developer at PwC España | NextJS - React - Typescript - Vue - NodeJS",
+      "description": "[EN]🧔🏻About me:\n\nAt the same time that I was getting ready to join the military🪖, I started playing around with computers and making my first moves in the IT industry.\n\nAfter achieving the latter, I was posted to Las Palmas de Gran Canaria as a sapper engineer, where I received professional training and discovered the significance of sacrifice, friendship, and other qualities.\n\nAfter a few years, I made the decision to reflect, and in 2021 I formally started back up my studies and my love of technology and programming.\n\nI currently work at PwC as a web developer, specializing on the frontend.\n\n[ES]🧔🏻Sobre mi:\n\nComencé trasteando con ordenadores y dando mis primeros pasos en el mundo IT al mismo tiempo que me preparaba para ser militar🪖.\n\nConseguí esto último y estuve destinado como ingeniero zapador en Las Palmas de Gran Canaria, donde me pude formar como profesional y aprender el significado de sacrificio y compañerismo entre otros valores. Trás varios años decidí echar la vista atrás y en 2021 retomé oficialmente mis estudios y mi pasión por la tecnología y el mundo de la programación.\n\nActualmente me encuentro trabajando como desarrollador web en PwC, enfocado especialmente en la parte del frontend.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/06/fd7f6faa-a20b-4b67-9dc4-634f665ea6c9_linkedin---profile-p.png",
-        "alt": "Linkedin - Profile picture - 400 x 401.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/c1a88565-68e8-4119-a78a-a6bedf3f9843_linkedin-photo-6745.linkedin-photo-6745",
+        "alt": "23/12/07/c1a88565-68e8-4119-a78a-a6bedf3f9843_linkedin-photo-6745.linkedin-photo-6745"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJcUElzOzMQQwRLuV30nMUEUM)",
@@ -26,7 +26,6 @@
         "title": "Enlaces",
         "type": "other",
         "URL": "https://linktr.ee/jesus_molano",
-        "summary": "Aquí estarán todos mis enlaces e información sobre mi.",
         "authors": [
           {
             "name": "Jesús",
@@ -39,7 +38,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jesus-molano-perdomo/"
+        "URL": "https://linkedin.com/in/jesus-molano-perdomo"
       },
       {
         "type": "github",
@@ -52,164 +51,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "PwC",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/08/55e8875f-eccc-41b3-a23e-8e5337e2695e_pricewaterhousecoope.png",
-            "alt": "PricewaterhouseCoopers_Logo.svg.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2023-03-01",
-            "challenges": [
-              {
-                "description": "Mi rol en el equipo de frontend de PwC es el de realizar en equipo proyectos E2E para grandes clientes. Utilizando últimas tecnologías como Next.js, Tailwind, React e incluso a veces React Native."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "React Native",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Escuela de Organización Industrial",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/5940e1df-76f8-4b88-87d9-084416c2cf38_unnamed.jpg",
-            "alt": "unnamed.jpg"
-          },
-          "URL": "https://amigaria.com"
-        },
-        "roles": [
-          {
-            "name": "Junior Frontend Developer",
-            "startDate": "2022-03-01",
-            "finishDate": "2022-06-01",
-            "challenges": [
-              {
-                "description": "Proyecto “Amigaria”, en el marco del Curso de\nProgramación y Diseño Web Front-End.\nLogros/Funciones\nTrabajo en equipo con framework SCRUM.\nInvestigación e implementación de tecnologías (Vue, Firebase...).\nImplementación de accesibilidad para el tercer sector."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Figma",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Gitflow",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud Firestore",
-                "type": "technology"
-              },
-              {
-                "name": "Google Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Trello",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Ejercito de Tierra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/2019867f-690e-4494-b814-d1d898ecc65e_coat_of_arms_of_the_.png",
-            "alt": "Coat_of_Arms_of_the_16th_Military_Engineering_Battalion.svg.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Ingeniero Zapador",
-            "startDate": "2018-01-01",
-            "finishDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "Cómo miembro del 1º pelotón de la 1º sección del BZAP XVI, realicé prácticas de tiro, manejo de explosivos, apoyo a la movilidad y contramovilidad, etc. Todo ello en unidad y trabajando en equipo."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IPC Informática",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/09214a48-a29e-43f9-8b6b-28f9c977fdc0_logo.jpg",
-            "alt": "logo.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Aprendiz de Técnico Informático",
-            "startDate": "2014-03-01",
-            "finishDate": "2014-06-01",
-            "challenges": [
-              {
-                "description": "Montaje y desmontaje de equipos informáticos tanto en tienda cómo a domicilio. Atencíon al cliente y venta de componentes."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -244,35 +85,6 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Comic Database",
-          "description": "Aplicación donde podemos buscar nuestros héroes y villanos favoritos de diferentes editoriales.",
-          "URL": "https://github.com/jesus-molano/react18-heroes",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/17d766a0-8cd9-4c37-b641-d53f9f136315_readme-img.jpg",
-            "alt": "readme-img.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-07-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-08-01"
           }
         ]
       },
@@ -314,6 +126,35 @@
               },
               {
                 "name": "Redux",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-08-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Comic Database",
+          "description": "Aplicación donde podemos buscar nuestros héroes y villanos favoritos de diferentes editoriales.",
+          "URL": "https://github.com/jesus-molano/react18-heroes",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/17d766a0-8cd9-4c37-b641-d53f9f136315_readme-img.jpg",
+            "alt": "readme-img.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               }
             ],
@@ -932,7 +773,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/jesus-molano-perdomo/",
+          "URL": "https://linkedin.com/in/jesus-molano-perdomo",
           "type": "linkedin"
         },
         {
