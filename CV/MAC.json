@@ -11,8 +11,8 @@
       "title": "💻Frontend Developer at PwC España | NextJS - React - Typescript - Vue - NodeJS",
       "description": "[EN]🧔🏻About me:\n\nAt the same time that I was getting ready to join the military🪖, I started playing around with computers and making my first moves in the IT industry.\n\nAfter achieving the latter, I was posted to Las Palmas de Gran Canaria as a sapper engineer, where I received professional training and discovered the significance of sacrifice, friendship, and other qualities.\n\nAfter a few years, I made the decision to reflect, and in 2021 I formally started back up my studies and my love of technology and programming.\n\nI currently work at PwC as a web developer, specializing on the frontend.\n\n[ES]🧔🏻Sobre mi:\n\nComencé trasteando con ordenadores y dando mis primeros pasos en el mundo IT al mismo tiempo que me preparaba para ser militar🪖.\n\nConseguí esto último y estuve destinado como ingeniero zapador en Las Palmas de Gran Canaria, donde me pude formar como profesional y aprender el significado de sacrificio y compañerismo entre otros valores. Trás varios años decidí echar la vista atrás y en 2021 retomé oficialmente mis estudios y mi pasión por la tecnología y el mundo de la programación.\n\nActualmente me encuentro trabajando como desarrollador web en PwC, enfocado especialmente en la parte del frontend.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/f5285ce2-d6d5-4a58-b7e5-32129e91e5cd_linkedin-photo-6745.linkedin-photo-6745",
-        "alt": "23/12/07/f5285ce2-d6d5-4a58-b7e5-32129e91e5cd_linkedin-photo-6745.linkedin-photo-6745"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/8897a526-70e8-420a-8fae-7a68de85cb63_linkedin-photo-6745.linkedin-photo-6745",
+        "alt": "23/12/07/8897a526-70e8-420a-8fae-7a68de85cb63_linkedin-photo-6745.linkedin-photo-6745"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJcUElzOzMQQwRLuV30nMUEUM)",
@@ -51,6 +51,61 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "PwC España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/261e8c78-2bb2-4cce-bb47-36105ae231fb_linkedin-photo-6745.linkedin-photo-6745",
+            "alt": "23/12/07/261e8c78-2bb2-4cce-bb47-36105ae231fb_linkedin-photo-6745.linkedin-photo-6745"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Skills: Vanilla JavaScript · Entorno Agile · Desarrollo front end · Desarrollo web · Bases de datos · GitFlow · ESLint · Soluciones tecnológicas · Desarrollo personal · Iniciativa · Resolución de problemas · Capacidad de análisis · AngularJS · Scrum · MySQL · Git · Tailwind CSS · Next.js · React Native · TypeScript · JIRA · JavaScript · React.js"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejercito de Tierra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/94073c0c-df53-42ae-9712-68ffa53b7c3b_linkedin-photo-6745.linkedin-photo-6745",
+            "alt": "23/12/07/94073c0c-df53-42ae-9712-68ffa53b7c3b_linkedin-photo-6745.linkedin-photo-6745"
+          }
+        },
+        "roles": [
+          {
+            "name": "Soldado",
+            "startDate": "2018-01-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Iniciativa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IPC Informática"
+        },
+        "roles": [
+          {
+            "name": "Técnico Informático",
+            "startDate": "2015-04-01",
+            "finishDate": "2015-07-31"
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
@@ -85,35 +140,6 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Comic Database",
-          "description": "Aplicación donde podemos buscar nuestros héroes y villanos favoritos de diferentes editoriales.",
-          "URL": "https://github.com/jesus-molano/react18-heroes",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/17d766a0-8cd9-4c37-b641-d53f9f136315_readme-img.jpg",
-            "alt": "readme-img.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-07-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-08-01"
           }
         ]
       },
@@ -155,6 +181,35 @@
               },
               {
                 "name": "Redux",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-08-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Comic Database",
+          "description": "Aplicación donde podemos buscar nuestros héroes y villanos favoritos de diferentes editoriales.",
+          "URL": "https://github.com/jesus-molano/react18-heroes",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/17d766a0-8cd9-4c37-b641-d53f9f136315_readme-img.jpg",
+            "alt": "readme-img.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               }
             ],
