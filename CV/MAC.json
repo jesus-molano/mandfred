@@ -757,7 +757,7 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Técnico Superior Desarrollo de Aplicaciones Web",
         "startDate": "2020-09-01",
         "institution": {
@@ -767,6 +767,7 @@
             "alt": "ceip-cesar-manirque-1-1-1.jpg"
           }
         },
+        "finishDate": "2023-06-01",
         "linkedCompetences": [
           {
             "name": "Bootstrap",
