@@ -882,6 +882,10 @@
           "type": "technology"
         },
         {
+          "name": "Vite",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         },
