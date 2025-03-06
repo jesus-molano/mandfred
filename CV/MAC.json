@@ -866,6 +866,10 @@
           "type": "technology"
         },
         {
+          "name": "Styled Components",
+          "type": "technology"
+        },
+        {
           "name": "Tailwind",
           "type": "technology"
         },
