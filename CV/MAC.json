@@ -838,6 +838,10 @@
           "type": "technology"
         },
         {
+          "name": "ChatGPT",
+          "type": "technology"
+        },
+        {
           "name": "Google Firebase",
           "type": "technology"
         },
