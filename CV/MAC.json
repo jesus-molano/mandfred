@@ -54,6 +54,80 @@
     "jobs": [
       {
         "organization": {
+          "name": "Cloud District"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "• Desarrollé componentes y utilidades utilizando Next JS y React para los proyectos Monitor y Omega de Naturgy.\n• Contribuí al sitio web principal de Pangea con NextJS, Atomic Design, Strapi y Storybook.\n• Colaboré en varios proyectos para el sitio web de reservas de estacionamiento de Telpark."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Slack",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "PwC España",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/9e6a4540-2e78-4ed6-8ede-53d4aa54086b_linkedin-photo-6745.linkedin-photo-6745",
