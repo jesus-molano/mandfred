@@ -886,6 +886,10 @@
           "type": "technology"
         },
         {
+          "name": "Vitest",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         },
