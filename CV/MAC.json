@@ -834,6 +834,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "Google Firebase",
           "type": "technology"
         },
