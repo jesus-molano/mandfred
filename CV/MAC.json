@@ -846,6 +846,10 @@
           "type": "technology"
         },
         {
+          "name": "MaterialUI",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
