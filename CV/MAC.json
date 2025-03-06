@@ -54,7 +54,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Cloud District"
+          "name": "Cloud District",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/06/9ae8bee6-e4f7-4c1f-a56b-9838bd6d623e_img_3750.jpeg",
+            "alt": "IMG_3750.jpeg"
+          },
+          "URL": "https://clouddistrict.com/en/"
         },
         "roles": [
           {
