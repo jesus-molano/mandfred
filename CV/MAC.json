@@ -142,7 +142,8 @@
         "roles": [
           {
             "name": "Frontend Developer",
-            "startDate": "2023-03-01",
+            "startDate": "2023-02-01",
+            "finishDate": "2024-03-01",
             "challenges": [
               {
                 "description": "Skills: Vanilla JavaScript · Entorno Agile · Desarrollo front end · Desarrollo web · Bases de datos · GitFlow · ESLint · Soluciones tecnológicas · Desarrollo personal · Iniciativa · Resolución de problemas · Capacidad de análisis · AngularJS · Scrum · MySQL · Git · Tailwind CSS · Next.js · React Native · TypeScript · JIRA · JavaScript · React.js"
