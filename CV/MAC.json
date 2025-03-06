@@ -430,6 +430,18 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vue",
           "type": "technology"
         }
@@ -938,15 +950,15 @@
         "type": "technology"
       },
       {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
         "name": "NextJS",
         "type": "technology"
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       },
       {
