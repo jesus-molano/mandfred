@@ -870,6 +870,10 @@
           "type": "technology"
         },
         {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
