@@ -834,10 +834,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Angular2+",
-          "type": "technology"
-        },
-        {
           "name": "Google Firebase",
           "type": "technology"
         },
