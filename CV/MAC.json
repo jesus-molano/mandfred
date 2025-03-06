@@ -946,7 +946,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Mi puesto ideal es aquel en el que se me valore como profesional y como persona, que pueda seguir aprendiendo y mejorando en diferentes proyectos o tecnologías.\n\nQue se utilice algún marco de trabajo agile y últimas versiones de las tecnologías más utilizadas. Y como buen añadido, teletrabajo o híbrido.",
+    "desiredJobDescription": "Busco un trabajo como frontend donde pueda sacarle partido a mi experiencia creando interfaces que sean prácticas, atractivas y funcionen de maravilla. Me gusta trabajar con TypesScript, CSS/Tailwind y frameworks como React, Vue o Astro, y estaría genial unirme a una empresa tecnológica o creativa donde pueda colaborar con diseñadores y backend para construir proyectos que lleguen a los usuarios y les hagan la vida más fácil.\n\nMe motiva un entorno donde pueda enfrentarme a retos interesantes, como optimizar el rendimiento o pulir la experiencia de usuario, dejando el código ordenado y preparado para crecer. Disfruto explorando herramientas nuevas y me gustaría tener espacio para aportar ideas sobre diseño o funcionalidad, no solo cumplir órdenes.\n\nLo perfecto sería un puesto flexible, ya sea remoto o híbrido, con un equipo que tire para adelante y donde haya buena comunicación. Quiero proyectos con cabeza, que sirvan para algo o que lleguen a mucha gente. El sueldo, que sea justo según lo que aporto, y un ambiente donde se valore el trabajo y pueda evolucionar.",
     "goodPractices": "Modularización de código, seguir estandares de desarrollo, trabajar por tareas, aplicar principios SOLID.",
     "projects": [
       {
