@@ -876,6 +876,10 @@
         {
           "name": "Vuex",
           "type": "technology"
+        },
+        {
+          "name": "Zustand",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
