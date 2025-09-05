@@ -54,6 +54,48 @@
     "jobs": [
       {
         "organization": {
+          "name": "Logixs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/05/c4f84254-c8a8-467b-95a3-271de994fb6c_img_4158.jpeg",
+            "alt": "IMG_4158.jpeg"
+          },
+          "URL": "https://www.logixsdigital.com/en"
+        },
+        "roles": [
+          {
+            "name": "Full stack developer",
+            "startDate": "2025-07-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Cloud District",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/03/06/9ae8bee6-e4f7-4c1f-a56b-9838bd6d623e_img_3750.jpeg",
