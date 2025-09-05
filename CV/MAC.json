@@ -444,12 +444,6 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
           "type": "technology"
         }
@@ -1027,11 +1021,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
+        "name": "NextJS",
         "type": "technology"
       },
       {
-        "name": "NextJS",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
