@@ -293,51 +293,6 @@
       },
       {
         "details": {
-          "name": "Journal App React 18",
-          "description": "Una aplicación de notas diarias con posibilidad de subida de imágenes e inicio de sesión.",
-          "URL": "https://github.com/jesus-molano/react18-journal-app",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/beaafc45-f2ee-4dbe-bd27-8504d9c011d9_journal.jpg",
-            "alt": "journal.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-07-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Google Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "MaterialUI",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Redux",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-08-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Comic Database",
           "description": "Aplicación donde podemos buscar nuestros héroes y villanos favoritos de diferentes editoriales.",
           "URL": "https://github.com/jesus-molano/react18-heroes",
@@ -991,9 +946,6 @@
     "projects": [
       {
         "name": "Comic Database"
-      },
-      {
-        "name": "Journal App React 18"
       },
       {
         "name": "Portfolio"
