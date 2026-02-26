@@ -257,24 +257,6 @@
     "projects": [
       {
         "details": {
-          "name": "Vuenime",
-          "description": "VueNime es una plataforma moderna para descubrir anime.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/26/59d3b846-6b59-4648-80b3-deb657096b10_screenshot-copy.jpeg",
-            "alt": "screenshot copy.jpeg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2025-12-01",
-            "finishDate": "2026-01-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Dotfiles",
           "description": "Mi configuración personalizada de CahyOS + Hyprland",
           "URL": "https://github.com/jesus-molano/dotfiles"
@@ -294,6 +276,25 @@
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Vuenime",
+          "description": "VueNime es una plataforma moderna para descubrir anime.",
+          "URL": "https://vuenime.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/26/59d3b846-6b59-4648-80b3-deb657096b10_screenshot-copy.jpeg",
+            "alt": "screenshot copy.jpeg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-12-01",
+            "finishDate": "2026-01-01"
           }
         ]
       }
