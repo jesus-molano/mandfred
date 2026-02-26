@@ -40,6 +40,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "HEURISTIK",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/26/f7af2fd2-201b-4210-88b8-7b4dbfaa87bd_heuristik-logo-black.svg",
+            "alt": "heuristik-logo-black.9d937b1d.svg"
+          },
+          "URL": "https://heuristik.tech"
+        },
+        "roles": [
+          {
+            "name": "Frontend engineer",
+            "startDate": "2026-02-01",
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Logixs",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/09/05/c4f84254-c8a8-467b-95a3-271de994fb6c_img_4158.jpeg",
