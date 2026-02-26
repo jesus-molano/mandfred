@@ -446,47 +446,6 @@
             "finishDate": "2022-06-01"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Gifox App",
-          "description": "Aplicación web de búsqueda de gifs hecha en React 17 y utilizando la API Giphy.",
-          "URL": "https://github.com/jesus-molano/gifox-app",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/10/5d7441a0-e866-4afe-ad6e-3d8b4046dd5f_group-2.png",
-            "alt": "Group 2.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-09-01",
-            "competences": [
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2021-10-01"
-          }
-        ]
       }
     ]
   },
@@ -1117,9 +1076,6 @@
       },
       {
         "name": "Comic Database"
-      },
-      {
-        "name": "Gifox App"
       },
       {
         "name": "Journal App React 18"
