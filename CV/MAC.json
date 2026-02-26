@@ -364,35 +364,6 @@
             "finishDate": "2022-08-01"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Vue Map App",
-          "description": "Un mapa interactivo en el cual podremos buscar lugares y marcar rutas hasta ellos.",
-          "URL": "https://github.com/jesus-molano/vue-map-app",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/19/657beb39-fcf8-4ee0-8c26-b17984543059_mapbox.jpg",
-            "alt": "mapbox.jpg"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "MapBox",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-07-01"
-          }
-        ]
       }
     ]
   },
@@ -1026,9 +997,6 @@
       },
       {
         "name": "Portfolio"
-      },
-      {
-        "name": "Vue Map App"
       }
     ]
   }
